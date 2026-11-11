@@ -1,0 +1,1 @@
+Los lenguajes interpretados son...  aquellos cuyo codigo fuente no se traduce completamente a lenguaje de máquina antes de que se ejecute, sino que se va interpretando y ejecutando línea por línea a medida que el programa se ejecuta

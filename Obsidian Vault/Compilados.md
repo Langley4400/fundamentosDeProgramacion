@@ -1,0 +1,1 @@
+Los lenguajes compilados son... aquellos que su codigo fuente es transformado en lenguaje máquina o código ejecutable antes de que el programa se ejecute.

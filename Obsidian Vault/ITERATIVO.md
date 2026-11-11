@@ -1,0 +1,1 @@
+Es una repeticion sucesiva de un proceso con el fin de llegar a un resultado o una mejora continua 

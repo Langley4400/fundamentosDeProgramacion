@@ -1,0 +1,5 @@
+**Moodle** es una plataforma LMS de código abierto que permite crear, gestionar y evaluar cursos online. Se utiliza para organizar contenidos formativos, actividades, tareas, cuestionarios, foros, recursos, calificaciones, seguimiento del progreso y comunicación entre profesores, alumnos y administradores.
+
+Un LMS es un sistema de gestión del aprendizaje. En la práctica, Moodle funciona como un campus virtual donde una escuela, universidad, empresa o institución puede crear espacios formativos, matricular usuarios, publicar materiales, evaluar actividades y hacer seguimiento del aprendizaje.
+
+Moodle fue creado por Martin Dougiamas y se ha consolidado como una de las plataformas de aprendizaje online más utilizadas del mundo, especialmente por su enfoque open source, su flexibilidad, su comunidad internacional y su capacidad de adaptación a contextos educativos muy diferentes.
